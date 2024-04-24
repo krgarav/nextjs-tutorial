@@ -6,4 +6,4 @@ const second = () => {
   )
 }
 
-export default second
+export default second;
