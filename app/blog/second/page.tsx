@@ -1,9 +1,13 @@
-import React from 'react'
+import Navbar from "@/component/navbar";
+import React from "react";
 
 const second = () => {
   return (
-    <div>second blog</div>
-  )
-}
+    <div>
+      <Navbar />
+      <h1> second blog</h1>
+    </div>
+  );
+};
 
 export default second;
